@@ -8,11 +8,15 @@ This repository is a collection of data science projects, starting with beginner
 
 ## 🛠 Projects
 
+- [Cat_Dog_Classification](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Cat_Dog_Classification)
+
 - [Fake News Classifier](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Fake_News_Classifier)
 
 - [Fruit Vegetable Prediction](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Fruit_Vegetable_prediction)
 
 - [Plant Disease Detection](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Plant_Disease_Detection)
+
+- [Potato_Plant_Disease](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Potato_Plant_Disease)
 
 - [Sentiment Analysis](https://github.com/beniamine3155/Data_Science_Projects/tree/main/Sentiment_Analysis)
 
